@@ -20,5 +20,3 @@ def sorted_list(lists):
             pass
     
     return s_list
-    
-sorted_list([])
