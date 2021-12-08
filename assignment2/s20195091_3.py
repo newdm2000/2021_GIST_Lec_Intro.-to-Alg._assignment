@@ -50,7 +50,4 @@ def budget(evaluation):
                 min_idx = i
             else:
                 pass
-        #print(profit)
     return profit * 1000
-
-print(budget([1, 2]))
